@@ -6,3 +6,8 @@
 --create a dictionary of image paths/labels
 --DATA AUGMENTATION
 --dropout layer #drops (of neurons at random for better generalization)
+
+# **TL-pytorch**
+--.zip file into colab
+-- rename download zip 
+--based on system performacne 
