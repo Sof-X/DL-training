@@ -1,5 +1,6 @@
 # **DataAugmentation**
 --import Data from URL into colab file and unzip
+-- .tgz file into colab
 --delete file in colab
 --count images in colab file
 --PIL Library
