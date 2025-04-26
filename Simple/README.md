@@ -16,3 +16,9 @@ Neural Network that classifies Setosa,Versicolor,Virginica [manual control]
 - append loss of final image in an epoch and plot
 - Manual Evaluation
 - ***Save and Load Model***
+
+## Basic CNN
+Import Mnist dataset and transform the Images
+- Create Model using Class and torch.nn
+- Train with Loop -//-
+- plot train and test data
