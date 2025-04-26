@@ -15,4 +15,4 @@ Neural Network that classifies Setosa,Versicolor,Virginica [manual control]
 - *Train* with for loop (model.forward), manually [] add backprop , NO BATCHES
 - append loss of final image in an epoch and plot
 - Manual Evaluation
-- ** *Save and Load Model* **
+- ***Save and Load Model***
