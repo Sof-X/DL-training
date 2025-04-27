@@ -1,7 +1,7 @@
 # Simple
 - **[Simple NN]** using cifar10 dataset for 10 classes
-- **[Neural Network]** that classifies Setosa,Versicolor,Virginica 
-- **[Import Mnist]** dataset and transform the Images
+- **[BasicNN]** Neural Network that classifies Setosa,Versicolor,Virginica 
+- **[Basic CNN]** Import Mnist dataset and transform the Images
 
 # Main
 - **[DeepCNN_Renotte]** Create a Happy-Sad classifier with images from google
