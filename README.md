@@ -1,14 +1,9 @@
-# **DataAugmentation**
---import Data from URL into colab file and unzip
--- .tgz file into colab
---delete file in colab
---count images in colab file
---PIL Library
---create a dictionary of image paths/labels
---DATA AUGMENTATION
---dropout layer #drops (of neurons at random for better generalization)
+# Simple
+**[Simple NN]** using cifar10 dataset for 10 classes
+-**[Neural Network]** that classifies Setosa,Versicolor,Virginica 
+-**[Import Mnist]** dataset and transform the Images
 
-# **TL-pytorch**
---.zip file into colab
--- rename download zip 
---based on system performacne 
+# Main
+-**[DeepCNN_Renotte]** Create a Happy-Sad classifier with images from google
+-**[Data Augmentation]** Create a flower classifier and Improve Training with augmentation
+-**[TL-pytorch]** Transfer Learning on MobileNet V2 to classify cats and dogs
