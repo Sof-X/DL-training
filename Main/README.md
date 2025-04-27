@@ -14,4 +14,11 @@ Create a Happy-Sad classifier with images from google
 - Save model
 
 # Data Augmentation
-- 
+Create a flower classifier and Improve Training with augmentation
+- Download data from an URL (.tgz file) and store it in a folder in colab
+- Use PIL library
+- search for files in folder based on name
+- Use **Dictionaries** for Images and Labels
+- resize and train Sequential model with *.compile* and *.fit*
+- get a **SOFTMAX** output
+- Improve Training with **Augmentation** , ADD two layers to the model 1 for augmentation and 1 for Dropout
