@@ -22,3 +22,18 @@ Create a flower classifier and Improve Training with augmentation
 - resize and train Sequential model with *.compile* and *.fit*
 - get a **SOFTMAX** output
 - Improve Training with **Augmentation** , ADD two layers to the model 1 for augmentation and 1 for Dropout
+
+# TL-pytorch
+Transfer Learning on MobileNet V2 to classify cats and dogs
+- download data.zip from URL, *rename folder*, and split into train/validation
+- **CONFIGURE FOR PERFORMANCE**
+- Data Augmentation Layer
+- Create base model from MobileNet V2 and remove the top
+- Freeze model
+- Build the complete model, from the base + augementation + rescaling + feature extraction leayer
+  [ x =data_augmentation(x) . x=layer(x)... , outputs =prediction_layer(x) ]
+- Compile and Train , parameters in the base model won't change, train the parameters in other layers we created
+- Plot accuracy and loss
+- **Fine Tuning** 
+
+
